@@ -2,9 +2,9 @@
 
 [Frontend](https://github.com/postigoj/securitynet-front)
 
-[Backend](https://github.com/SteAymar/SecurityNet-Backend)
+[Backend](https://github.com/postigoj/securitynet-backend)
 
-[App Mobile](https://github.com/SteAymar/SecurityNet-Mobile)
+[App Mobile](https://github.com/postigoj/securitynet-app)
 
 ## Certificaciónde servicios de vigiladores
 ### Visión general
